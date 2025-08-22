@@ -1,6 +1,6 @@
 # 💻🖼️ Marina Roncatto 
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora Back-End`**
 
 Olá! 🤗
 
@@ -8,7 +8,7 @@ Me chamo Marina, amo o estudo das artes e da natureza, e sou uma entusiasta da t
 
 Estudo Análise e Desenvolvimento de Sistemas no Senac, onde também fiz o curso técnico em Informática. No momento, além de ter contato com C# e Python pelo curso de ADS, estou me aprofundando na linguagem Java (estudando desde sistemas legados com JDBC para acesso a banco de dados até os mais atuais com uso do framework Spring Boot). 
 
-Estou aprendendo muito com os cursos do Nélio Alves e também participando de bootcamps da DIO para me manter atualizada. Tenho experiência com PHP, HTML, CSS e MySQL, que usei para criar páginas web e aplicações CRUD durante meu curso técnico. Meu objetivo é me aprimorar como desenvolvedora e seguir na carreira Full Stack, com enfoque em Back-End.
+Estou aprendendo muito com os cursos do Nélio Alves e também participando de bootcamps da DIO para me manter atualizada. Tenho experiência com PHP, HTML, CSS e MySQL, que usei para criar páginas web e aplicações CRUD durante meu curso técnico. Meu objetivo é me aprimorar como desenvolvedora e seguir na carreira com enfoque em Back-End.
 
 Sigo em busca de aprender mais, ganhar experiência prática e colaborar com projetos que façam a diferença. 🚀
 
